@@ -1,4 +1,4 @@
-ClassicModels Sales Data Analysis
+# ClassicModels Sales Data Analysis
 
 - Utilized SQL to extract data from 8 different related tables from
   classicmodels databases using complex SQL queries
