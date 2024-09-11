@@ -8,6 +8,12 @@ The goal of this project is to analyze the sales data of ClassicModels and extra
 - Average order amount by country.
 - Sales value per product line.
 - Top 10 best-selling products based on quantity sold.
+- Sales representative performance.
+- Average number of orders per customer.
+- Percentage of orders shipped on time.
+- Net profit per product.
+- Customer segmentation by value.
+- Cross selling opportunities.
 
 ### Key Skills Demonstrated:
 - **SQL Joins**: Combining data from multiple tables.
