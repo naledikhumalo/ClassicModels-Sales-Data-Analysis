@@ -1,6 +1,6 @@
 # ClassicModels Sales Data Analysis Project
 
-This project performs sales data analysis for **ClassicModels**, using SQL. The project focuses on deriving insights related to sales performance by leveraging SQL techniques such as joins, aggregate functions, and data grouping.
+This repository contains a project that performs sales data analysis for **ClassicModels**, using **SQL**. The project focuses on deriving insights related to sales performance by leveraging SQL techniques such as joins, aggregate functions, and data grouping.
 
 ## Project Overview
 
